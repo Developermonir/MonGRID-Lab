@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# MonGRID Lab
 
-# Run and deploy your AI Studio app
+> An awesome tool to create grid layouts visually with CSS Flexbox. Interactively adjust container and item properties, resize items with your mouse, and get production-ready HTML and CSS code.
 
-This contains everything you need to run your app locally.
+## Credit
 
-View your app in AI Studio: https://ai.studio/apps/drive/1B_PI_d59D_8XHOWrdHIND5vXz5bYzbKU
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project was created by [Your Name/Handle Here].
